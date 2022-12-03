@@ -1,0 +1,15 @@
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\bin\Debug\net6.0\ProgBackEnd.exe
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\bin\Debug\net6.0\ProgBackEnd.deps.json
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\bin\Debug\net6.0\ProgBackEnd.runtimeconfig.json
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\bin\Debug\net6.0\ProgBackEnd.dll
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\bin\Debug\net6.0\ProgBackEnd.pdb
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.csproj.AssemblyReference.cache
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.AssemblyInfoInputs.cache
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.AssemblyInfo.cs
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.dll
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\refint\ProgBackEnd.dll
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.pdb
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ProgBackEnd.genruntimeconfig.cache
+C:\Users\senaisp\Desktop\Aulas\25-11-22\Turma13\ProgBackEnd\obj\Debug\net6.0\ref\ProgBackEnd.dll
