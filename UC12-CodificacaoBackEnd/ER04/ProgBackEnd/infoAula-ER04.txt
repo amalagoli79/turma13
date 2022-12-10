@@ -1,0 +1,9 @@
+Adicionar à classe base de pessoa jurídica e pessoa física, o método de pagar imposto, seguindo as seguintes instruções:
+
+- Pessoa física
+Validação de Data de Nascimento da Pessoa Física
+Uso do Polimofismo - Data de Nascimento: String / DateTime
+
+- Criação da Classe Endereco e Composição com o atributo Endereço da classe pessoa.
+
+
